@@ -17,6 +17,5 @@ social: true  # includes social icons at the bottom of the page
 
 Holà! I'm Luca Grillotti, a PhD student at the Adaptive and Intelligent Robotics Lab (AIRL) of Imperial College London under the supervision of [Antoine Cully](https://www.imperial.ac.uk/people/a.cully).
 
-My research focuses on how to use Reinforcement Learning and [Quality-Diversity](https://quality-diversity.github.io/) algorithms to learn collections of **diverse** and **high-performing** abilities for a robot in an **unsupervised** manner.
+My research focuses on how to use Reinforcement Learning and [Quality-Diversity](https://quality-diversity.github.io/) algorithms to learn collections of **diverse** and **high-performing robot abilities** in an **unsupervised** manner.
 
-I am now studying how to use 
