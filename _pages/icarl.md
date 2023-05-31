@@ -1,9 +1,9 @@
 ---
-layout: page
-permalink: /icarl/
+layout: redirected
 title: ICARL
 description: 
 nav: true
-nav_order: 3
+nav_order: 4
+redirect_to: https://icarl.doc.ic.ac.uk/
 ---
 
