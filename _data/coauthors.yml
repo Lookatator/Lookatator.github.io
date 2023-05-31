@@ -1,34 +1,23 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Allard":
+  - firstname: ["Maxime", "M."]
+    url:  https://scholar.google.com/citations?user=LJILpisAAAAJ&hl=en&oi=ao
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Flageat":
+  - firstname: ["Manon", "M."]
+    url:  https://scholar.google.com/citations?user=W9Pm_KYAAAAJ&hl=en
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Cully":
+  - firstname: ["Antoine", "A."]
+    url:  https://www.imperial.ac.uk/people/a.cully
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Lim":
+  - firstname: ["Bryan"]
+    url:  https://limbryan.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Smith":
+  - firstname: ["Simón C.", "S. C."]
+    url:  https://www.linkedin.com/in/simoncsmithb/?originalSubdomain=uk
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Bernasconi":
+  - firstname: ["Lorenzo"]
+    url: https://www.linkedin.com/in/lorenzo-bernasconi-552983197/?originalSubdomain=uk

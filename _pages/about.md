@@ -1,11 +1,11 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: center
+  align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
