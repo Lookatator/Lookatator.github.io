@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Lookatator.github.io/al-folio/sitemap.xml
+Sitemap: https://Lookatator.github.io/sitemap.xml
