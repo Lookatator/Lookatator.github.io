@@ -4,3 +4,27 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"GECCO<br>QD Benchmark<br>Workshop":
+  color: "#481F01"
+  url: "https://quality-diversity.github.io/workshop"
+
+"ICLR<br>ALOE Workshop":
+  color: "#7A4988"
+  url: "https://sites.google.com/view/aloe2022/home"
+
+"ICRA":
+  color: "#A32CC4"
+  url: "https://www.icra2023.org/"
+
+"TMLR":
+  color: "#A32CC4"
+  url: "https://jmlr.org/tmlr/"
+
+"GECCO Poster":
+  color: "#355E3B"
+  url: "https://gecco-2023.sigevo.org/HomePage"
+
+
+
+
