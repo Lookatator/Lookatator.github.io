@@ -21,3 +21,26 @@
 "Bernasconi":
   - firstname: ["Lorenzo"]
     url: https://www.linkedin.com/in/lorenzo-bernasconi-552983197/?originalSubdomain=uk
+
+"Faldor":
+  - firstname: ["Maxence", "M."]
+    url: https://maxencefaldor.github.io/
+
+"Templier":
+  - firstname: ["Paul", "P."]
+    url: https://templierpaul.github.io/
+
+"Wilson":
+  - firstname: ["Dennis", "D."]
+    url: http://d9w.github.io/
+
+# Emmanuel Rachelson
+# https://pagespro.isae-supaero.fr/emmanuel-rachelson/?lang=fr
+"Rachelson":
+  - firstname: ["Emmanuel", "E."]
+    url: https://pagespro.isae-supaero.fr/emmanuel-rachelson/?lang=fr
+
+# Borja Gonzalez Leon
+"González León":
+  - firstname: ["Borja", "B."]
+    url: https://www.doc.ic.ac.uk/~bg19/
