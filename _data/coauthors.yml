@@ -1,46 +1,46 @@
-"Allard":
+"allard":
   - firstname: ["Maxime", "M."]
     url:  https://scholar.google.com/citations?user=LJILpisAAAAJ&hl=en&oi=ao
 
-"Flageat":
+"flageat":
   - firstname: ["Manon", "M."]
     url:  https://scholar.google.com/citations?user=W9Pm_KYAAAAJ&hl=en
 
-"Cully":
+"cully":
   - firstname: ["Antoine", "A."]
     url:  https://www.imperial.ac.uk/people/a.cully
 
-"Lim":
+"lim":
   - firstname: ["Bryan"]
     url:  https://limbryan.github.io/
 
-"Smith":
+"smith":
   - firstname: ["Simón C.", "S. C."]
     url:  https://www.linkedin.com/in/simoncsmithb/?originalSubdomain=uk
 
-"Bernasconi":
+"bernasconi":
   - firstname: ["Lorenzo"]
     url: https://www.linkedin.com/in/lorenzo-bernasconi-552983197/?originalSubdomain=uk
 
-"Faldor":
+"faldor":
   - firstname: ["Maxence", "M."]
     url: https://maxencefaldor.github.io/
 
-"Templier":
+"templier":
   - firstname: ["Paul", "P."]
     url: https://templierpaul.github.io/
 
-"Wilson":
+"wilson":
   - firstname: ["Dennis", "D."]
     url: http://d9w.github.io/
 
 # Emmanuel Rachelson
 # https://pagespro.isae-supaero.fr/emmanuel-rachelson/?lang=fr
-"Rachelson":
+"rachelson":
   - firstname: ["Emmanuel", "E."]
     url: https://pagespro.isae-supaero.fr/emmanuel-rachelson/?lang=fr
 
 # Borja Gonzalez Leon
-"González León":
+"gonzalez leon":
   - firstname: ["Borja", "B."]
     url: https://www.doc.ic.ac.uk/~bg19/

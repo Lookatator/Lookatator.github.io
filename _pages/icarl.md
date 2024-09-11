@@ -1,6 +1,7 @@
 ---
 layout: redirected
 title: ICARL
+permalink: /icarl/
 description: 
 nav: true
 nav_order: 4
