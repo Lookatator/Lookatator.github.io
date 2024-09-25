@@ -16,7 +16,7 @@
 
 "smith":
   - firstname: ["Simón C.", "S. C."]
-    url:  https://www.linkedin.com/in/simoncsmithb/?originalSubdomain=uk
+    url:  https://scholar.google.co.uk/citations?user=lmsSu-sAAAAJ&hl=es
 
 "bernasconi":
   - firstname: ["Lorenzo"]
@@ -44,3 +44,12 @@
 "gonzalez leon":
   - firstname: ["Borja", "B."]
     url: https://www.doc.ic.ac.uk/~bg19/
+
+"chalumeau":
+  - firstname: ["Felix", "F."]
+    url: https://scholar.google.com/citations?user=YAC6ZzIAAAAJ&hl=fr
+
+#Boige, Raphael
+"boige":
+  - firstname: ["Raphael", "R."]
+    url: https://scholar.google.com/citations?user=bxVI0MYAAAAJ&hl=fr

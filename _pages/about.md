@@ -20,7 +20,7 @@ Hello! I'm Luca Grillotti, a PhD student at the [Adaptive and Intelligent Roboti
 My research focuses on how to use [**Quality-Diversity**](https://quality-diversity.github.io/) and **Reinforcement Learning** algorithms to learn collections of **diverse robot skills** in an **unsupervised** manner without simulation models.
 [This poster](/assets/pdf/LSR-4-1.pdf) summarises the research conducted during my first months of PhD.
 
-Additionally, I actively contribute to several open-source Quality-Diversity projects, such as [**QDax**](https://github.com/adaptive-intelligent-robotics/QDax) and [**Kheperax**](https://github.com/adaptive-intelligent-robotics/Kheperax).
+Additionally, I actively contribute to several open-source Quality-Diversity projects, such as [QDax](https://github.com/adaptive-intelligent-robotics/QDax) and [Kheperax](https://github.com/adaptive-intelligent-robotics/Kheperax).
 Beyond coding, I co-organize the [Imperial College Autonomous Learning and Reasoning (ICARL)](https://icarl.doc.ic.ac.uk/) monthly seminar series, where researchers in the field are invited to present their work on campus.
 
 As a **Teaching Scholar** for the Department of Computing, I've made substantial contributions to education at Imperial College London. 
