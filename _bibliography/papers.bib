@@ -1,7 +1,6 @@
 ---
 ---
 
-<<<<<<< HEAD
 @article{chalumeau2024qdax,
   abbr={JMLR},
   title={QDax: A library for quality-diversity and population-based algorithms with hardware acceleration},
@@ -12,7 +11,9 @@
   pages={1--16},
   year={2024},
   bibtex_show={true},
-  pdf={https://arxiv.org/pdf/2308.03665}
+  pdf={https://arxiv.org/pdf/2308.03665},
+  preview = {qdax_logo2.png},
+  code = {https://github.com/adaptive-intelligent-robotics/QDax},
 }
 
 @inproceedings{templier2024quality,
@@ -35,11 +36,57 @@
 	year={2024},
 	organization={PMLR},
 	selected={true},
-	html={https://adaptive-intelligent-robotics.github.io/QDAC/},
+	website={https://adaptive-intelligent-robotics.github.io/QDAC/},
     bibtex_show={true},
     pdf={https://arxiv.org/pdf/2403.09930},
 	preview={humanoid_hurdles.gif},
 	poster={https://icml.cc/virtual/2024/poster/34429}
+}
+
+@article{lim2023accelerated,
+  abbr={TMLR},
+  title={Accelerated Quality-Diversity through Massive Parallelism},
+  author={Lim, Bryan and Allard, Maxime and Grillotti, Luca and Cully, Antoine},
+  journal={Transactions on Machine Learning Research},
+  year={2023},
+  bibtex_show={true},
+  pdf={https://openreview.net/pdf?id=znNITCJyTI}
+}
+
+@inproceedings{grillotti2023don,
+  abbr={GECCO},
+  title={Don't Bet on Luck Alone: Enhancing Behavioral Reproducibility of Quality-Diversity Solutions in Uncertain Domains},
+  author={Grillotti*, Luca and Flageat*, Manon and Lim, Bryan and Cully, Antoine},
+  booktitle={Proceedings of the Genetic and Evolutionary Computation Conference},
+  year={2023},
+  selected={true},
+  pdf={https://arxiv.org/pdf/2304.03672.pdf},
+  preview={walker.gif},
+  bibtex_show={true},
+  website = {https://sites.google.com/view/gecco2023-aria/},
+}
+
+
+@inproceedings{flageat2023benchmark,
+  abbr={GECCO<br>QD Benchmark<br>Workshop},
+  title={Benchmark Tasks for Quality-Diversity Applied to Uncertain Domains},
+  author={Flageat, Manon and Grillotti, Luca and Cully, Antoine},
+  booktitle={GECCO Workshop on Benchmarks for Quality-Diversity algorithms},
+  year={2023},
+  bibtex_show={true},
+  pdf={https://arxiv.org/pdf/2304.12454.pdf}
+}
+
+@inproceedings{grillotti2023kheperax,
+  abbr={GECCO<br>QD Benchmark<br>Workshop},
+  title={Kheperax: a Lightweight JAX-based Robot Control Environment for Benchmarking Quality-Diversity Algorithms},
+  author={Grillotti, Luca and Cully, Antoine},
+  booktitle={GECCO Workshop on Quality Diversity Algorithm Benchmarks},
+  year={2023},
+  bibtex_show={true},
+  code = {https://github.com/adaptive-intelligent-robotics/Kheperax},
+  selected={true},
+  preview = {kheperax.gif},
 }
 
 @article{grillotti2022unsupervised,
@@ -59,16 +106,20 @@
   preview={hexa_roll.gif}
 }
 
-@inproceedings{grillotti2023don,
+@inproceedings{grillotti2022relevance,
   abbr={GECCO},
-  title={Don't Bet on Luck Alone: Enhancing Behavioral Reproducibility of Quality-Diversity Solutions in Uncertain Domains},
-  author={Grillotti*, Luca and Flageat*, Manon and Lim, Bryan and Cully, Antoine},
+  title={Relevance-guided Unsupervised Discovery of Abilities with Quality-Diversity Algorithms},
+  author={Grillotti, Luca and Cully, Antoine},
   booktitle={Proceedings of the Genetic and Evolutionary Computation Conference},
-  year={2023},
-  selected={true},
-  pdf={https://arxiv.org/pdf/2304.03672.pdf},
-  preview={walker.gif}
+  pages={77--85},
+  year={2022},
+    bibtex_show={true},
+      selected={true},
+      html={https://dl.acm.org/doi/abs/10.1145/3512290.3528837},
+      pdf={https://arxiv.org/pdf/2204.09828.pdf},
+      preview={hexa_pos_relevant.png}
 }
+
 
 @inproceedings{lim2022dynamics,
   abbr={ICRA},
@@ -80,7 +131,8 @@
   organization={IEEE},
   bibtex_show={true},
   html={https://ieeexplore.ieee.org/document/9811559},
-  pdf={https://arxiv.org/pdf/2109.08522.pdf}
+  pdf={https://arxiv.org/pdf/2109.08522.pdf},
+  preview = {daqd-no-damage.gif},
   }
 
 @inproceedings{lim2022accelerated,
@@ -93,19 +145,6 @@
   pdf={https://openreview.net/pdf?id=SUqU4mPbUZ9},
 }
 
-@inproceedings{grillotti2022relevance,
-  title={Relevance-guided unsupervised discovery of abilities with quality-diversity algorithms},
-  author={Grillotti, Luca and Cully, Antoine},
-  booktitle={Proceedings of the Genetic and Evolutionary Computation Conference},
-  pages={77--85},
-  year={2022},
-    bibtex_show={true},
-      selected={true},
-      html={https://dl.acm.org/doi/abs/10.1145/3512290.3528837},
-      pdf={https://arxiv.org/pdf/2204.09828.pdf},
-      preview={hexa_pos_relevant.png}
-}
-
 @inproceedings{grillotti2022discovering,
   abbr={ICLR<br>ALOE Workshop},
   title={Discovering Unsupervised Behaviours from Full State Trajectories},
@@ -113,7 +152,6 @@
   booktitle={ICLR Workshop on Agent Learning in Open-Endedness},
   year={2022},
   bibtex_show={true},
-  selected={true},
   pdf={https://arxiv.org/pdf/2211.15451.pdf}
 }
 
@@ -123,35 +161,10 @@
   author={Flageat, Manon and Lim, Bryan and Grillotti, Luca and Allard, Maxime and Smith, Simón C and Cully, Antoine},
   booktitle={GECCO Workshop on Benchmarks for Quality-Diversity algorithms},
   year={2022},
+  bibtex_show={true},
   pdf={https://arxiv.org/pdf/2211.02193.pdf}
 }
 
-@inproceedings{flageat2023benchmark,
-  abbr={GECCO<br>QD Benchmark<br>Workshop},
-  title={Benchmark Tasks for Quality-Diversity Applied to Uncertain Domains},
-  author={Flageat, Manon and Grillotti, Luca and Cully, Antoine},
-  booktitle={GECCO Workshop on Benchmarks for Quality-Diversity algorithms},
-  year={2023},
-  pdf={https://arxiv.org/pdf/2304.12454.pdf}
-}
-
-@inproceedings{grillotti2023kheperax,
-  abbr={GECCO<br>QD Benchmark<br>Workshop},
-  title={Kheperax: a Lightweight JAX-based Robot Control Environment for Benchmarking Quality-Diversity Algorithms},
-  author={Grillotti, Luca and Cully, Antoine},
-  booktitle={GECCO Workshop on Benchmarks for Quality-Diversity algorithms},
-  year={2023}
-}
-
-@article{lim2023accelerated,
-  abbr={TMLR},
-  title={Accelerated Quality-Diversity through Massive Parallelism},
-  author={Lim, Bryan and Allard, Maxime and Grillotti, Luca and Cully, Antoine},
-  journal={Transactions on Machine Learning Research},
-  year={2023},
-  bibtex_show={true},
-  pdf={https://openreview.net/pdf?id=znNITCJyTI}
-}
 
 
 @inproceedings{lim2022qdax,
