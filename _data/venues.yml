@@ -25,3 +25,14 @@
 "ICML":
   color: "#A32CC4"
   url: "https://icml.cc/"
+
+"CoRL":
+  color: "#A32CC4"
+  url: "https://www.corl.org/"
+
+"ALIFE":
+  color: "#A32CC4"
+  url: "https://2026.alife.org/"
+
+"ACM TELO":
+  url: "https://dl.acm.org/journal/telo"

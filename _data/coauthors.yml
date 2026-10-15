@@ -53,3 +53,43 @@
 "boige":
   - firstname: ["Raphael", "R."]
     url: https://scholar.google.com/citations?user=bxVI0MYAAAAJ&hl=fr
+
+"coiffard":
+  - firstname: ["Lisa", "L."]
+    url: https://scholar.google.com/citations?user=VBpD7AIAAAAJ&hl=en
+
+"pang":
+  - firstname: ["Oscar", "O."]
+    url: https://scholar.google.com/citations?user=MKXQo1YAAAAJ&hl=en
+
+"yamada":
+  - firstname: ["Yutaro", "Y."]
+    url: https://yutaroyamada.com/
+
+"charakorn":
+  - firstname: ["Rujikorn", "R."]
+    url: https://www.rujikorn.com/
+
+"risi":
+  - firstname: ["Sebastian", "S."]
+    url: https://sebastianrisi.com/
+
+"ha":
+  - firstname: ["David", "D."]
+    url: https://blog.otoro.net/
+
+"lange":
+  - firstname: ["Robert Tjarko", "Robert", "R. T.", "R."]
+    url: https://roberttlange.com/
+
+"bahlous-boldi":
+  - firstname: ["Ryan", "R."]
+    url: https://ryanboldi.github.io/
+
+"spector":
+  - firstname: ["Lee", "L."]
+    url: https://lspector.github.io/
+
+"janmohamed":
+  - firstname: ["Hannah", "H."]
+    url: https://scholar.google.com/citations?user=LIzoINkAAAAJ&hl=en
