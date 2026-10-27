@@ -37,6 +37,6 @@
 "ACM TELO":
   url: "https://dl.acm.org/journal/telo"
 
-"arXiv":
+"Technical<br>Report":
   color: "#B31B1B"
   url: "https://arxiv.org/"
