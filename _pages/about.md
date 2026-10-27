@@ -17,6 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I'm Luca Grillotti, a **Research Scientist** at [Sakana AI](https://sakana.ai/) in Tokyo.
 My research focuses on **Autonomous Research**, **Open-Endedness**, **Quality-Diversity** algorithms and **Evolutionary Robotics**.
+I am one of the authors of [**The Agentic Scientist**](https://pub.sakana.ai/agentic-scientist/), Sakana AI's open-source pipeline that orchestrates coding agents for end-to-end scientific (co-)discovery.
 
 Before joining Sakana AI, I completed my PhD at the [Adaptive and Intelligent Robotics Lab (AIRL)](https://www.imperial.ac.uk/adaptive-intelligent-robotics/) of Imperial College London under the supervision of [Professor Antoine Cully](https://www.imperial.ac.uk/people/a.cully).
 My PhD investigated how to use **Quality-Diversity** and **Reinforcement Learning** algorithms to learn collections of **diverse robot skills** in an **unsupervised** manner without simulation models.
